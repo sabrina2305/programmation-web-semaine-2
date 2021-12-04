@@ -1,0 +1,62 @@
+body {
+  background-image: url("vectorpng.png");
+  background-repeat: no-repeat;
+  background-color: #2E4053 ;
+  background-attachment: fixed;
+  background-size: 130% 120%;
+
+}
+.titre{
+  color: #F5B041;
+  font-family: "Monaco",Monospace;
+  text-align: center;
+  font-size: 60px;
+  text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+  z-index: 1;
+
+}
+
+table,th,td{
+  border:1px solid #cccccc;
+  margin: auto;
+
+
+  }
+
+table{
+  background-color: rgb(20, 90, 50,0.9);
+  width: 50%;
+
+
+  
+}
+td,th{
+  width:1000px;
+  text-align: center;
+  font-family: "Monaco",Monospace;
+}
+.image1{
+  width: 100%; 
+  height: 100%;
+  
+}
+
+.footer{
+  text-align: center;
+  bottom: 0px;
+  color: white;
+  position: fixed;
+  
+  font-family:"Lucida Console",Monospace;
+  border: black;
+  border-radius: 0px;
+  background-color: black;
+  
+  margin-top: 0px;
+  margin-left: -10px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 102%;
+  display: ;
+  
+}

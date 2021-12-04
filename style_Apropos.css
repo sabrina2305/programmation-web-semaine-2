@@ -1,0 +1,71 @@
+body {
+  background-image: url("vectorpng.png");
+  background-repeat: no-repeat;
+  background-color: #2E4053 ;
+  background-attachment: fixed;
+  background-size: 130% 120%;
+
+}
+.titre{
+  color: white;
+  font-family: "Monaco",Monospace;
+  text-align: center;
+  font-size: 100px;
+  text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+  z-index: 1;
+  position: relative;
+  top: 30px;
+}
+.fondtransparent{
+  width:1500px;
+  height:700px;border:1px  #000;background-color:#17202A ;
+  display: flex;
+  opacity: 70%;
+  margin: auto;
+  position: relative;
+  top: -150px;
+  z-index: 0;
+}
+.footer{
+  text-align: center;
+  bottom: 0px;
+  color: white;
+  position: fixed;
+  
+  font-family:"Lucida Console",Monospace;
+  border: black;
+  border-radius: 0px;
+  background-color: black;
+  
+  margin-top: 0px;
+  margin-left: -10px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 102%;
+  display: ;
+  
+}
+
+.Groupe{
+  text-align: center;
+  position: relative;
+  bottom: 700px;
+  left: 50px;
+  color: white;
+  font-family: "Monaco",Monospace;
+}
+
+.devise{
+  text-align: center;
+  position: relative;
+  bottom: 600px;
+  left: 50px;
+  color: white;
+  font-family: "Monaco",Monospace;
+  font-size: 30px;
+}
+.precedent{
+  color: white;
+
+
+}

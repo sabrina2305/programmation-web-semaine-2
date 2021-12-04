@@ -1,0 +1,48 @@
+body {
+  background-image: url("vectorpng.png");
+  background-repeat: no-repeat;
+  background-color: #2E4053 ;
+  background-attachment: fixed;
+  background-size: 130% 120%;
+
+
+}
+
+#page
+{
+color:#000000;
+background-color:#ffffff;
+background-position:top right;
+background-repeat:no-repeat;
+border:3px solid #000000;
+min-height:20em;
+height:55em;
+}
+.boite{
+	margin: auto;
+	background-color:rgb(20, 90, 50,0.9);
+	text-align: center;
+	display: column;
+	font-family: "Monaco",Monospace;
+}
+
+
+.footer{
+	text-align: center;
+	bottom: 0px;
+	color: white;
+	position: fixed;
+	
+	font-family:"Lucida Console",Monospace;
+	border: black;
+	border-radius: 0px;
+	background-color: black;
+	
+	margin-top: 0px;
+	margin-left: -10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	width: 102%;
+	display: ;
+	
+}
